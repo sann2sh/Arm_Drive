@@ -30,7 +30,6 @@
 - **IMU**: MPU6050 (Accelerometer + Gyro)
 - **Communication**: NRF24L01 2.4GHz modules
 - **Inverse Kinematics**: IK logic for arm
-- **Chassis**: Scratch-built wood, and arcylic sheet for controller
 
 ---
 
@@ -39,7 +38,7 @@
 ![Custom Controller](images/4.jpg)
 
 - Dual-axis joysticks for movement & arm control  
-- Tilt-based gestures via IMU for intuitive arm positioning  
+- Tilt-based gestures via IMU for intuitive vehicle movement
 
 ---
 
@@ -53,7 +52,7 @@
 
 ## 📷 More Images
 
-| Robot Arm Close-up | Underside Wiring |
+| Robot Arm Close-up | Wide shot |
 |--------------------|------------------|
 | ![Arm](images/2.jpg) | ![Photo](images/3.jpg) |
 
