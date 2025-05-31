@@ -1,8 +1,12 @@
 # 🤖 ARM Drive
 
+Solder fumes, caffeine shots, and hackathon panic presents:
+
 **ARM Drive** is a four-wheel robot equipped with a 5-DOF robotic arm with inverse kinematics. It is wirelessly controlled by a custom-built 2.4Ghz radio controller featuring joysticks and gesture controls powered by the MPU6050 IMU.
 
-> ⚡ Built in under 24 hours from scratch during the **24-Hour KU Hackathon**!
+> ⚡ Built in under 24 hours from scratch during the **24-Hour KU Hackathon**! 
+
+
 
 ---
 
@@ -67,3 +71,15 @@ Special thanks to the organizing team of **24 Hour KU Hackathon** for the platfo
 
 
 > "Ignore the sketchy build."
+
+## 🎞️ Build Montage
+
+> A behind-the-scenes look at the 24-hour madness! 🛠️💡
+
+| Starting from scratch | Midway assembly | Final touches |
+|-----------------------|------------------|----------------|
+| ![Start](images/build-start.jpg) | ![Midway](images/build-mid.jpg) | ![Final](images/build-final.jpg) |
+
+*Feel the chaos, creativity, and caffeine.*
+
+---
