@@ -74,10 +74,11 @@ Special thanks to the organizing team of **24 Hour KU Hackathon** for the platfo
 
 ## 🎞️ Build Montage
 
-> A behind-the-scenes look at the 24-hour madness! 🛠️💡
+> A behind-the-scenes look at the 24-hour madness! 🛠️💡 Click on the image.
 
-[![Timelapse](https://i.ytimg.com/vi/N1ZkKimU3vc/oardefault.jpg)](https://www.youtube.com/shorts/N1ZkKimU3vc)
-
+<a href="https://www.youtube.com/shorts/N1ZkKimU3vc" target="_blank">
+  <img src="https://i.ytimg.com/vi/N1ZkKimU3vc/oardefault.jpg" width="600"/>
+</a>
 
 
 ---
