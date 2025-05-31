@@ -1,6 +1,6 @@
 # 🤖 ARM Drive
 
-**ARM Drive** is a four-wheel robot equipped with a 5-DOF robotic arm capable of performing complex tasks using inverse kinematics. It is wirelessly controlled by a custom-built 2.4Ghz radio gamepad featuring joysticks and gesture controls powered by the MPU6050 IMU.
+**ARM Drive** is a four-wheel robot equipped with a 5-DOF robotic arm with inverse kinematics. It is wirelessly controlled by a custom-built 2.4Ghz radio gamepad featuring joysticks and gesture controls powered by the MPU6050 IMU.
 
 > ⚡ Built in under 24 hours from scratch during the **24-Hour KU Hackathon**!
 
