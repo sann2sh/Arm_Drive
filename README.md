@@ -76,10 +76,8 @@ Special thanks to the organizing team of **24 Hour KU Hackathon** for the platfo
 
 > A behind-the-scenes look at the 24-hour madness! 🛠️💡
 
-| Starting from scratch | Midway assembly | Final touches |
-|-----------------------|------------------|----------------|
-| ![Start](images/build-start.jpg) | ![Midway](images/build-mid.jpg) | ![Final](images/build-final.jpg) |
+[![Timelapse](https://i.ytimg.com/vi/N1ZkKimU3vc/oardefault.jpg)](https://www.youtube.com/shorts/N1ZkKimU3vc)
 
-*Feel the chaos, creativity, and caffeine.*
+
 
 ---
