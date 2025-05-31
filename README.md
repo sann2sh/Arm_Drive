@@ -1,6 +1,6 @@
 # 🤖 ARM Drive
 
-Solder fumes, caffeine shots, and hackathon panic presents:
+Powered by Solder fumes, caffeine shots, and hackathon panic.
 
 **ARM Drive** is a four-wheel robot equipped with a 5-DOF robotic arm with inverse kinematics. It is wirelessly controlled by a custom-built 2.4Ghz radio controller featuring joysticks and gesture controls powered by the MPU6050 IMU.
 
