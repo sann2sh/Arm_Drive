@@ -29,7 +29,7 @@
 - **Motor Driver**: L298N
 - **IMU**: MPU6050 (Accelerometer + Gyro)
 - **Communication**: NRF24L01 2.4GHz modules
-- **Inverse Kinematics**: Custom IK logic for 5DOF arm
+- **Inverse Kinematics**: IK logic for arm
 - **Chassis**: Scratch-built wood, and arcylic sheet for controller
 
 ---
